@@ -1,11 +1,11 @@
 # FreeVoiceQualityControlSystem 语音质检系统
-Speech-to-text, text quality inspection, intelligent quality inspection, real-time quality inspection, random inspection of recording files,语音转文字，文本质检，智能质检，实时质检，录音文件抽检，ASR，TTS，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot!!!
+Speech-to-text, text quality inspection, intelligent quality inspection, real-time quality inspection, random inspection of recording files,语音转文字，文本质检，智能质检，实时质检，录音文件抽检，ASR，TTS，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
-## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+## 😄长期目标：疯狂地为社会创造价值，引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
 ## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）
 <img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
@@ -13,7 +13,7 @@ Speech-to-text, text quality inspection, intelligent quality inspection, real-ti
 
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、质检系统、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.06.13语音质检系统还在开发ing）:
+## 📫 How to reach us（截止2025.06.14语音质检系统还在开发ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
