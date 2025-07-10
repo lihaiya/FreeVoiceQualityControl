@@ -22,20 +22,14 @@ Speech-to-text, text quality inspection, intelligent quality inspection, real-ti
 ## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、质检系统、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.07.07语音质检系统还在开发ing）:
+## 📫 How to reach us（截止2025.07.10语音质检系统还在开发ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
 - 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## demo暂无，附团队AI Call Center的2025.07.07 Demo链接，enjoy😄：
-
-1，话务/在线客服：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单：(demo/123456)
-http://124.220.48.38:80
+## demo暂无，附团队AI Call Center的2025.07.10 Demo链接，enjoy😄：
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/6895d089-3350-4d93-b323-6fed01084790)
